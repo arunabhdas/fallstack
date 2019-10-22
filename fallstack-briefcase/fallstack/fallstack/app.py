@@ -6,7 +6,7 @@ from toga.style import Pack
 from toga.style.pack import COLUMN, ROW, LEFT, RIGHT
 
 
-class Converter(toga.App):
+class Fallstack(toga.App):
     def calculate(self, widget):
         try:
             self.c_input.value = (float(self.f_input.value) - 32.0) * 5.0 / 9.0
@@ -62,4 +62,4 @@ class Converter(toga.App):
 
 
 def main():
-    return Converter('Converter', 'org.pybee.converter')
+    return Fallstack('Fallstack', 'com.arunabhdas.fallstack')
