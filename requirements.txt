@@ -5,7 +5,7 @@ arrow==0.15.2
 astor==0.8.0
 astroid==2.3.1
 attrs==19.3.0
-Babel==2.7.0
+Babel==2.9.1
 base58==1.0.3
 binaryornot==0.4.4
 biplist==1.0.3
