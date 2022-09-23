@@ -48,7 +48,7 @@ pbr==5.4.3
 Pillow==6.2.0
 port-for==0.3.1
 poyo==0.5.0
-protobuf==3.10.0
+protobuf==3.18.3
 Pygments==2.4.2
 pylint==2.4.2
 pyparsing==2.4.2
